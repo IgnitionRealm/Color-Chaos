@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Bootstrap.unity
+    guid: 1ff34ceda4a734b4d97a92f7d423ce37
+  - enabled: 1
     path: Assets/Game/ColorChaos/Scenes/Main.unity
     guid: e5dd9f3b4aafa5b4ca4776232678b401
   m_configObjects:
